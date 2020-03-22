@@ -5,12 +5,10 @@
 #### By Brittany Lindgren
 
 ## Description
-***
 
 This web page is an exercise in writing tabs accurately and using proper spacing. 
 
 ## Setup/Installation Requirements
-***
 
 * Clone this repository.
 * To view the code itself, open in a text editor such as VS Code or Atom, etc.
@@ -18,22 +16,18 @@ This web page is an exercise in writing tabs accurately and using proper spacing
 * You do not need to run a server to view this document.
 
 ## Known Bugs
-***
 
 There are no known bugs at this time.
 
 ## Support and contact details
-***
 
 Please feel free to contact me with any questions, ideas or concerns at name@gmail.com.
 
 ## Technologies Used
-***
 
 * HTML
 
 ### License
-***
 
 *This site is licensed under the MIT license.*
 
